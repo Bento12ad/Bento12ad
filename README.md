@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Jakapan Ploensup 👋
 
-<!--
-**Bento12ad/Bento12ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer | AI Integration | Application Security
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Bangkok University, specializing in Data Security. I enjoy building full-stack web applications, developing backend systems, and integrating AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently completing my Bachelor's degree, with expected graduation in December 2026.
+
+### About Me
+
+- 💻 Interested in Full-Stack and Backend Development
+- 🤖 Building applications with AI integration
+- 🔐 Interested in Application Security and Penetration Testing
+- 🚀 Focused on building practical software solutions
+
+### Tech Stack
+
+**Languages**
+- JavaScript, TypeScript, Python, HTML, CSS
+
+**Frontend**
+- Next.js, React, Tailwind CSS
+
+**Backend**
+- Node.js, NestJS, Fastify, REST APIs
+
+**Database**
+- PostgreSQL, MongoDB, Prisma
+
+**AI & Tools**
+- Google Gemini API, OCR, OpenCV
+- Docker, Git, GitHub, Vercel, Cloudflare
+
+### Featured Project
+
+**Talkative AI – AI Speaking Coach**
+
+An independently developed full-stack application that helps users improve their communication skills through AI-powered speaking practice and feedback.
+
+- AI-powered speaking practice and feedback
+- Speaking performance analysis
+- Secure user authentication
+- Full-stack architecture with database integration
+
+🔗 [Live Demo](https://talkativeai-frontend.vercel.app/)
+
+### Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakapan-ploensup/)
+- 💻 [GitHub](https://github.com/Bento12ad)
+- 🌐 Portfolio: Add your portfolio URL here
+- 📧 Email: Jakapan.work.dev@gmail.com
