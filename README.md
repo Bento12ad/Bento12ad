@@ -48,5 +48,5 @@ An independently developed full-stack application that helps users improve their
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jakapan-ploensup/)
 - 💻 [GitHub](https://github.com/Bento12ad)
-- 🌐 Portfolio: Add your portfolio URL here
+- 🌐 [Portfolio](https://bento12ad.github.io/Portfolio)
 - 📧 Email: Jakapan.work.dev@gmail.com
